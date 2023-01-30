@@ -18,7 +18,7 @@
 <br>
 
 - A passionate Computer Science Student at NJIT
-- Personal website [TBD]()
+- Personal website [Here](https://portfolio-timo1227.vercel.app/)
 - I’m currently open for an Intern or a new job opportunity, this is my [Resume]()
 
 <br><br>
