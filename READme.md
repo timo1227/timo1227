@@ -14,7 +14,7 @@
 
 - A passionate Computer Science Student at NJIT
 - Personal website [Here](https://portfolio-timo1227.vercel.app/)
-- I’m currently open for an Intern or a new job opportunity, this is my [Resume](/public/TimothyEstrada.pdf)
+- I’m currently open for an Intern or a new job opportunity, this is my <a href="/public/TimothyEstrada.pdf" download>Resume</a>
 
 <br><br>
 
