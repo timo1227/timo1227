@@ -15,4 +15,4 @@
   ![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git)
 
 
-**For a more comprehensive list of skills, visit [my website](https://techtim.dev).**
+**For a more info, visit [my website](https://techtim.dev).**
